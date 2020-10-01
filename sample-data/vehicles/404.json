@@ -1,0 +1,21 @@
+{
+  "id": 404,
+  "make": "Nissan",
+  "model": "Note",
+  "rent": 3650,
+  "series": "PDW",
+  "images": [
+    "assets/img/cars/car5/0.jpg",
+    "assets/img/cars/car5/1.jpg",
+    "assets/img/cars/car5/2.jpg",
+    "assets/img/cars/car5/3.jpg",
+    "assets/img/cars/car5/4.jpg"
+  ],
+  "term": 48,
+  "deposit": 6000,
+  "speical": false,
+  "reserved": false,
+  "mv": 68000,
+  "iacs": 400
+}
+

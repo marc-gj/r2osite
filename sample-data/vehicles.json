@@ -1,0 +1,125 @@
+[
+  {
+    "id": 400,
+    "make": "Nissan",
+    "model": "Tiida",
+    "rent": 3650,
+    "series": "PDY",
+    "images": [
+      "assets/img/cars/car1/0.jpg",
+      "assets/img/cars/car1/1.jpg",
+      "assets/img/cars/car1/2.jpg",
+      "assets/img/cars/car1/3.jpg",
+      "assets/img/cars/car1/4.jpg",
+      "assets/img/cars/car1/5.jpg",
+      "assets/img/cars/car1/6.jpg",
+      "assets/img/cars/car1/7.jpg",
+      "assets/img/cars/car1/8.jpg",
+      "assets/img/cars/car1/9.jpg",
+      "assets/img/cars/car1/10.jpg"
+    ],
+    "term": 48,
+    "deposit": 6000,
+    "special": true,
+    "reserved": true,
+    "mv": 68000,
+    "iacs": 400,
+    "minrent": 2050
+  },
+  {
+    "id": 401,
+    "make": "Nissan",
+    "model": "AD Wagon",
+    "rent": 3025,
+    "series": "PDU",
+    "images": [
+      "assets/img/cars/car2/0.jpg",
+      "assets/img/cars/car2/1.jpg",
+      "assets/img/cars/car2/2.jpg",
+      "assets/img/cars/car2/3.jpg",
+      "assets/img/cars/car2/4.jpg",
+      "assets/img/cars/car2/5.jpg",
+      "assets/img/cars/car2/6.jpg",
+      "assets/img/cars/car2/7.jpg",
+      "assets/img/cars/car2/8.jpg"
+    ],
+    "term": 48,
+    "deposit": 5000,
+    "special": true,
+    "reserved": true,
+    "mv": 68000,
+    "iacs": 400,
+    "minrent": 2200
+  },
+  {
+    "id": 402,
+    "make": "Nissan",
+    "model": "AD Wagon",
+    "rent": 3300,
+    "series": "PDY",
+    "images": [
+      "assets/img/cars/car3/0.jpg",
+      "assets/img/cars/car3/1.jpg",
+      "assets/img/cars/car3/2.jpg",
+      "assets/img/cars/car3/3.jpg",
+      "assets/img/cars/car3/4.jpg",
+      "assets/img/cars/car3/5.jpg",
+      "assets/img/cars/car3/6.jpg"
+    ],
+    "term": 48,
+    "deposit": 5000,
+    "special": true,
+    "reserved": false,
+    "mv": 68000,
+    "iacs": 400,
+    "minrent": 2200
+  },
+  {
+    "id": 403,
+    "make": "Nissan",
+    "model": "Tiida",
+    "rent": 3650,
+    "series": "PDY",
+    "images": [
+      "assets/img/cars/car4/0.jpg",
+      "assets/img/cars/car4/1.jpg",
+      "assets/img/cars/car4/2.jpg",
+      "assets/img/cars/car4/3.jpg",
+      "assets/img/cars/car4/4.jpg",
+      "assets/img/cars/car4/5.jpg",
+      "assets/img/cars/car4/6.jpg",
+      "assets/img/cars/car4/7.jpg",
+      "assets/img/cars/car4/8.jpg",
+      "assets/img/cars/car4/9.jpg"
+    ],
+    "term": 48,
+    "deposit": 6000,
+    "special": false,
+    "reserved": false,
+    "mv": 68000,
+    "iacs": 400,
+    "minrent": 2050
+  },
+  {
+    "id": 404,
+    "make": "Nissan",
+    "model": "Note",
+    "rent": 3650,
+    "series": "PDW",
+    "images": [
+      "assets/img/cars/car5/0.jpg",
+      "assets/img/cars/car5/1.jpg",
+      "assets/img/cars/car5/2.jpg",
+      "assets/img/cars/car5/3.jpg",
+      "assets/img/cars/car5/4.jpg"
+    ],
+    "term": 48,
+    "deposit": 6000,
+    "speical": false,
+    "reserved": false,
+    "mv": 68000,
+    "iacs": 400,
+    "minrent": 2050
+  }
+]
+

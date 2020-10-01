@@ -1,0 +1,26 @@
+{
+  "id": 400,
+  "make": "Nissan",
+  "model": "Tiida",
+  "rent": 3650,
+  "series": "PDY",
+  "images": [
+    "assets/img/cars/car1/0.jpg",
+    "assets/img/cars/car1/1.jpg",
+    "assets/img/cars/car1/2.jpg",
+    "assets/img/cars/car1/3.jpg",
+    "assets/img/cars/car1/4.jpg",
+    "assets/img/cars/car1/5.jpg",
+    "assets/img/cars/car1/6.jpg",
+    "assets/img/cars/car1/7.jpg",
+    "assets/img/cars/car1/8.jpg",
+    "assets/img/cars/car1/9.jpg",
+    "assets/img/cars/car1/10.jpg"
+  ],
+  "term": 48,
+  "deposit": 6000,
+  "special": true,
+  "reserved": true,
+  "mv": 68000,
+  "iacs": 400
+}

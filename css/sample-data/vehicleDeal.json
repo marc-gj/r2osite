@@ -1,0 +1,57 @@
+[
+  {
+    "registrationNumber": "ppp-0000",
+    "vehicleType": "Nissan",
+    "vehicleModel": "Note",
+    "colour": "Silver",
+    "marketValue": "77000",
+    "standardDownpayment": "6000",
+    "standardInstalment": "3650",
+    "standardTerm": "48",
+    "maxTerm": "60"
+  },
+  {
+    "registrationNumber": "ppp-0001",
+    "vehicleType": "Nissan",
+    "vehicleModel": "Versa",
+    "colour": "Silver",
+    "marketValue": "85000",
+    "standardDownpayment": "6000",
+    "standardInstalment": "3975",
+    "standardTerm": "48",
+    "maxTerm": "60"
+  },
+  {
+    "registrationNumber": "ppp-0002",
+    "vehicleType": "Mitsubishi",
+    "vehicleModel": "L300",
+    "colour": "White",
+    "marketValue": "80000",
+    "standardDownpayment": "8000",
+    "standardInstalment": "3700",
+    "standardTerm": "48",
+    "maxTerm": "60"
+  },
+  {
+    "registrationNumber": "ppp-0003",
+    "vehicleType": "Nissan",
+    "vehicleModel": "Frontier NP300",
+    "colour": "White",
+    "marketValue": "93500",
+    "standardDownpayment": "15000",
+    "standardInstalment": "4000",
+    "standardTerm": "48",
+    "maxTerm": "60"
+  },
+  {
+    "registrationNumber": "ppp-0004",
+    "vehicleType": "Toyota",
+    "vehicleModel": "Axio",
+    "colour": "White",
+    "marketValue": "80000",
+    "standardDownpayment": "6000",
+    "standardInstalment": "3800",
+    "standardTerm": "48",
+    "maxTerm": "60"
+  }
+]

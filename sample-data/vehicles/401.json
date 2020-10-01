@@ -1,0 +1,24 @@
+{
+  "id": 401,
+  "make": "Nissan",
+  "model": "AD Wagon",
+  "rent": 3025,
+  "series": "PDU",
+  "images": [
+    "assets/img/cars/car2/0.jpg",
+    "assets/img/cars/car2/1.jpg",
+    "assets/img/cars/car2/2.jpg",
+    "assets/img/cars/car2/3.jpg",
+    "assets/img/cars/car2/4.jpg",
+    "assets/img/cars/car2/5.jpg",
+    "assets/img/cars/car2/6.jpg",
+    "assets/img/cars/car2/7.jpg",
+    "assets/img/cars/car2/8.jpg"
+  ],
+  "term": 48,
+  "deposit": 5000,
+  "special": true,
+  "reserved": true,
+  "mv": 68000,
+  "iacs": 400
+}
